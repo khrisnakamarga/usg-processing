@@ -1,0 +1,8 @@
+#ignores images
+*.jpg
+
+#ignores word document
+*.docx
+
+#ignores data
+*.mat
